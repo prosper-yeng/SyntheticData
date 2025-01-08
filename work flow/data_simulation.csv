@@ -1,0 +1,624 @@
+startAccessTime,endAccessTime,employeeID,roleID,patientID,activityID,employeeDepartmentID,employeeOrganizationID,osID,deviceID,browserID,ipAddress,ReasonID,shiftID,siftStartDateTime,siftEndDateTime,CRUD,AccessControlStatus,SessionID,AccessPatient_Warnings,ModuleUsed,anomaly
+1/1/2019 14:00,1/1/2019 14:02,emp_110,Nurse,p608,1,In Patients_Ward1,org_1,Windows,dev_63,Chrome,192.168.2.73,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,1,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_110,Nurse,p652,1,In Patients_Ward1,org_1,Windows,dev_63,Chrome,192.168.2.73,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,4,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_107,Nurse,p263,1,In Patients_Ward1,org_1,Windows,dev_62,Chrome,192.168.2.72,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_112,Nurse,p780,1,In Patients_Ward1,org_1,Windows,dev_63,Chrome,192.168.2.73,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,4,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_107,Nurse,p619,1,In Patients_Ward1,org_1,Windows,dev_62,Chrome,192.168.2.72,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,9,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_107,Nurse,p992,1,In Patients_Ward1,org_1,Windows,dev_62,Chrome,192.168.2.72,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,7,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_119,Nurse,p605,1,In Patients_Ward2,org_1,Windows,dev_64,Chrome,192.168.2.74,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,2,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_120,Nurse,p603,1,In Patients_Ward2,org_1,Windows,dev_65,Chrome,192.168.2.75,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,4,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_121,Nurse,p651,1,In Patients_Ward2,org_1,Windows,dev_64,Chrome,192.168.2.74,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,7,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_122,Nurse,p666,1,In Patients_Ward2,org_1,Windows,dev_65,Chrome,192.168.2.75,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,6,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_119,Nurse,p344,1,In Patients_Ward2,org_1,Windows,dev_64,Chrome,192.168.2.74,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,7,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_121,Nurse,p256,1,In Patients_Ward2,org_1,Windows,dev_64,Chrome,192.168.2.74,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_122,Nurse,p816,1,In Patients_Ward2,org_1,Windows,dev_65,Chrome,192.168.2.75,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_123,Nurse,p124,1,In Patients_Ward2,org_1,Windows,dev_64,Chrome,192.168.2.74,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,3,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_119,Nurse,p144,1,In Patients_Ward2,org_1,Windows,dev_64,Chrome,192.168.2.74,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,9,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:01,emp_132,Nurse,p262,1,In Patients_Ward3,org_1,Windows,dev_67,Chrome,192.168.2.77,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,3,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_135,Nurse,p741,1,In Patients_Ward3,org_1,Windows,dev_66,Chrome,192.168.2.76,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_133,Nurse,p62,1,In Patients_Ward3,org_1,Windows,dev_66,Chrome,192.168.2.76,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,4,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_136,Nurse,p567,1,In Patients_Ward3,org_1,Windows,dev_67,Chrome,192.168.2.77,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,5,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_131,Nurse,p237,1,In Patients_Ward3,org_1,Windows,dev_66,Chrome,192.168.2.76,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,8,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_69,Nurse,p757,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,4,0,Patient Management,0
+1/1/2019 06:11,1/1/2019 06:16,emp_69,Nurse,p757,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,9,0,Patient Management,0
+1/1/2019 06:11,1/1/2019 06:16,emp_69,Nurse,p757,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,8,0,Patient Management,0
+1/1/2019 06:23,1/1/2019 06:28,emp_54,Doctor,p757,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,6,0,Patient Management,0
+1/1/2019 06:51,1/1/2019 06:53,emp_54,Doctor,p757,1,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,3,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_53,Doctor,p757,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,3,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_53,Doctor,p757,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,3,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_53,Doctor,p757,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,10,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_53,Doctor,p757,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,8,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_53,Doctor,p757,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_72,Nurse,p757,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,4,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_72,Nurse,p757,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_74,Nurse,p757,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_74,Nurse,p757,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,5,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_72,Nurse,p757,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_72,Nurse,p757,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,7,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_78,Nurse,p757,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,8,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_78,Nurse,p757,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,2,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_82,Nurse,p757,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,2,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_82,Nurse,p757,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,5,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_81,Nurse,p757,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,7,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_81,Nurse,p757,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,4,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_85,Nurse,p757,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,9,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_85,Nurse,p757,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,3,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_83,Nurse,p757,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,5,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_83,Nurse,p757,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,9,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_57,Doctor,p757,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,9,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_58,Doctor,p757,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,6,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_57,Doctor,p757,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,1,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_57,Doctor,p757,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,5,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_71,Nurse,p103,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,2,0,Patient Management,0
+1/1/2019 06:09,1/1/2019 06:12,emp_71,Nurse,p103,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,5,0,Patient Management,0
+1/1/2019 06:09,1/1/2019 06:12,emp_71,Nurse,p103,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,9,0,Patient Management,0
+1/1/2019 06:20,1/1/2019 06:22,emp_54,Doctor,p103,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,9,0,Patient Management,0
+1/1/2019 06:45,1/1/2019 06:49,emp_54,Doctor,p103,1,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,10,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_71,Nurse,p103,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,3,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_71,Nurse,p103,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,10,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_66,Nurse,p103,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,10,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_66,Nurse,p103,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,4,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_65,Nurse,p103,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,3,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_65,Nurse,p103,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,8,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_67,Nurse,p103,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,7,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_67,Nurse,p103,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,7,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:01,emp_70,Nurse,p103,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,2,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:01,emp_70,Nurse,p103,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,8,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_54,Doctor,p103,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,6,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_53,Doctor,p103,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,10,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_54,Doctor,p103,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_77,Nurse,p103,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_77,Nurse,p103,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,7,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_75,Nurse,p103,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,8,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_75,Nurse,p103,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,5,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_56,Doctor,p103,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,4,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_55,Doctor,p103,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_56,Doctor,p103,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_56,Doctor,p103,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,7,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_56,Doctor,p103,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_83,Nurse,p103,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,9,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_83,Nurse,p103,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,3,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_79,Nurse,p103,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,1,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_79,Nurse,p103,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,4,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_79,Nurse,p103,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_79,Nurse,p103,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,1,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_80,Nurse,p103,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,5,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_80,Nurse,p103,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_58,Doctor,p103,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_57,Doctor,p103,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_58,Doctor,p103,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,9,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_66,Nurse,p978,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,5,0,Patient Management,0
+1/1/2019 06:10,1/1/2019 06:13,emp_66,Nurse,p978,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,3,0,Patient Management,0
+1/1/2019 06:10,1/1/2019 06:13,emp_66,Nurse,p978,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,8,0,Patient Management,0
+1/1/2019 06:20,1/1/2019 06:25,emp_53,Doctor,p978,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,4,0,Patient Management,0
+1/1/2019 06:47,1/1/2019 06:50,emp_53,Doctor,p978,1,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,2,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_67,Nurse,p978,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,10,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_67,Nurse,p978,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,1,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_68,Nurse,p978,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,9,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_68,Nurse,p978,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,8,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:01,emp_68,Nurse,p978,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,7,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:01,emp_68,Nurse,p978,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_73,Nurse,p978,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,1,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_73,Nurse,p978,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,6,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_72,Nurse,p978,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,4,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_72,Nurse,p978,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,1,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_84,Nurse,p978,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,3,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_84,Nurse,p978,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_83,Nurse,p978,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,3,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_83,Nurse,p978,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,2,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_58,Doctor,p978,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,1,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_58,Doctor,p978,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,6,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_58,Doctor,p978,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,1,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_58,Doctor,p978,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,8,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_78,Nurse,p243,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,9,0,Patient Management,0
+1/1/2019 14:11,1/1/2019 14:16,emp_78,Nurse,p243,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,7,0,Patient Management,0
+1/1/2019 14:11,1/1/2019 14:16,emp_78,Nurse,p243,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,3,0,Patient Management,0
+1/1/2019 14:21,1/1/2019 14:24,emp_55,Doctor,p243,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,8,0,Patient Management,0
+1/1/2019 14:47,1/1/2019 14:50,emp_55,Doctor,p243,1,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_72,Nurse,p243,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,8,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_72,Nurse,p243,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_56,Doctor,p243,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,7,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_83,Nurse,p243,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,7,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_83,Nurse,p243,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,4,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_82,Nurse,p243,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_82,Nurse,p243,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_58,Doctor,p243,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_58,Doctor,p243,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_78,Nurse,p603,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,9,0,Patient Management,0
+1/1/2019 14:08,1/1/2019 14:10,emp_78,Nurse,p603,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,3,0,Patient Management,0
+1/1/2019 14:08,1/1/2019 14:10,emp_78,Nurse,p603,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,1,0,Patient Management,0
+1/1/2019 14:16,1/1/2019 14:21,emp_56,Doctor,p603,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,7,0,Patient Management,0
+1/1/2019 14:37,1/1/2019 14:41,emp_56,Doctor,p603,1,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_77,Nurse,p603,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,6,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_77,Nurse,p603,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_75,Nurse,p603,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_75,Nurse,p603,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_76,Nurse,p603,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,6,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_76,Nurse,p603,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,6,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_55,Doctor,p603,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,4,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_82,Nurse,p603,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_82,Nurse,p603,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_84,Nurse,p603,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,3,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_84,Nurse,p603,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_57,Doctor,p603,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_58,Doctor,p603,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,7,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_57,Doctor,p603,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,4,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_57,Doctor,p603,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,5,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_66,Nurse,p619,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,10,0,Patient Management,0
+1/1/2019 06:11,1/1/2019 06:13,emp_66,Nurse,p619,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,10,0,Patient Management,0
+1/1/2019 06:11,1/1/2019 06:13,emp_66,Nurse,p619,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,9,0,Patient Management,0
+1/1/2019 06:23,1/1/2019 06:26,emp_54,Doctor,p619,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,7,0,Patient Management,0
+1/1/2019 06:52,1/1/2019 06:55,emp_54,Doctor,p619,1,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,5,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_69,Nurse,p619,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,5,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_69,Nurse,p619,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,2,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_65,Nurse,p619,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,1,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_65,Nurse,p619,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,4,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_66,Nurse,p619,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,6,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_66,Nurse,p619,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,10,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:01,emp_65,Nurse,p619,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,4,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:01,emp_65,Nurse,p619,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,1,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_68,Nurse,p619,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,6,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_68,Nurse,p619,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,10,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_54,Doctor,p619,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,8,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_53,Doctor,p619,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,2,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:01,emp_53,Doctor,p619,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,8,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_77,Nurse,p619,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_77,Nurse,p619,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_72,Nurse,p619,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_72,Nurse,p619,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_72,Nurse,p619,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_72,Nurse,p619,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_75,Nurse,p619,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,7,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_75,Nurse,p619,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_55,Doctor,p619,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_55,Doctor,p619,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_56,Doctor,p619,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,6,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_56,Doctor,p619,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,5,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_55,Doctor,p619,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_80,Nurse,p619,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,9,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_80,Nurse,p619,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,2,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_69,Nurse,p759,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,1,0,Patient Management,0
+1/1/2019 06:12,1/1/2019 06:15,emp_69,Nurse,p759,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,10,0,Patient Management,0
+1/1/2019 06:12,1/1/2019 06:15,emp_69,Nurse,p759,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,2,0,Patient Management,0
+1/1/2019 06:20,1/1/2019 06:25,emp_53,Doctor,p759,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,8,0,Patient Management,0
+1/1/2019 06:50,1/1/2019 06:54,emp_53,Doctor,p759,1,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,6,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_53,Doctor,p759,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,8,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_53,Doctor,p759,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,6,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_74,Nurse,p759,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,5,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_74,Nurse,p759,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_76,Nurse,p759,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,5,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_76,Nurse,p759,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,8,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_74,Nurse,p759,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,4,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_74,Nurse,p759,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_56,Doctor,p759,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_56,Doctor,p759,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_84,Nurse,p759,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_84,Nurse,p759,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,4,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_85,Nurse,p759,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_85,Nurse,p759,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,9,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_85,Nurse,p759,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,7,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_85,Nurse,p759,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_82,Nurse,p759,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,9,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_82,Nurse,p759,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,1,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_57,Doctor,p759,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_57,Doctor,p759,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_75,Nurse,p859,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,8,0,Patient Management,0
+1/1/2019 14:10,1/1/2019 14:13,emp_75,Nurse,p859,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,8,0,Patient Management,0
+1/1/2019 14:10,1/1/2019 14:13,emp_75,Nurse,p859,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,9,0,Patient Management,0
+1/1/2019 14:22,1/1/2019 14:25,emp_55,Doctor,p859,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,10,0,Patient Management,0
+1/1/2019 14:47,1/1/2019 14:52,emp_55,Doctor,p859,1,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,7,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_77,Nurse,p859,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_77,Nurse,p859,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_77,Nurse,p859,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,4,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_77,Nurse,p859,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_75,Nurse,p859,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_75,Nurse,p859,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_76,Nurse,p859,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,4,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_76,Nurse,p859,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,1,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_81,Nurse,p859,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_81,Nurse,p859,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,6,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_84,Nurse,p859,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,5,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_84,Nurse,p859,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,2,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_83,Nurse,p859,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,2,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_83,Nurse,p859,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,1,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_84,Nurse,p859,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,7,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_84,Nurse,p859,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_57,Doctor,p859,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,4,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_57,Doctor,p859,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_57,Doctor,p859,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,4,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_82,Nurse,p840,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,9,0,Patient Management,0
+1/1/2019 22:12,1/1/2019 22:17,emp_82,Nurse,p840,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,1,0,Patient Management,0
+1/1/2019 22:12,1/1/2019 22:17,emp_82,Nurse,p840,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,10,0,Patient Management,0
+1/1/2019 22:24,1/1/2019 22:27,emp_58,Doctor,p840,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,9,0,Patient Management,0
+1/1/2019 22:50,1/1/2019 22:55,emp_58,Doctor,p840,1,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,5,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_81,Nurse,p840,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,9,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_81,Nurse,p840,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,4,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_85,Nurse,p840,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,9,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_85,Nurse,p840,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,3,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_80,Nurse,p840,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,1,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_80,Nurse,p840,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,1,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_58,Doctor,p840,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,3,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_58,Doctor,p840,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,1,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_57,Doctor,p840,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,3,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_57,Doctor,p840,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,5,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_66,Nurse,p771,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,8,0,Patient Management,0
+1/1/2019 06:14,1/1/2019 06:16,emp_66,Nurse,p771,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,10,0,Patient Management,0
+1/1/2019 06:14,1/1/2019 06:16,emp_66,Nurse,p771,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,4,0,Patient Management,0
+1/1/2019 06:22,1/1/2019 06:27,emp_53,Doctor,p771,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,3,0,Patient Management,0
+1/1/2019 06:44,1/1/2019 06:48,emp_53,Doctor,p771,1,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,1,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_54,Doctor,p771,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_55,Doctor,p771,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,5,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_56,Doctor,p771,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,1,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_79,Nurse,p771,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,2,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_79,Nurse,p771,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_82,Nurse,p771,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,2,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_82,Nurse,p771,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_79,Nurse,p771,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,7,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_79,Nurse,p771,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_58,Doctor,p771,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_58,Doctor,p771,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,8,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_73,Nurse,p328,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,3,0,Patient Management,0
+1/1/2019 14:12,1/1/2019 14:14,emp_73,Nurse,p328,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,2,0,Patient Management,0
+1/1/2019 14:12,1/1/2019 14:14,emp_73,Nurse,p328,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,2,0,Patient Management,0
+1/1/2019 14:22,1/1/2019 14:25,emp_56,Doctor,p328,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,1,0,Patient Management,0
+1/1/2019 14:45,1/1/2019 14:49,emp_56,Doctor,p328,1,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,4,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_77,Nurse,p328,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_77,Nurse,p328,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_78,Nurse,p328,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,4,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_78,Nurse,p328,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_78,Nurse,p328,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,7,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_78,Nurse,p328,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_55,Doctor,p328,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,4,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_55,Doctor,p328,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,8,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_56,Doctor,p328,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,5,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_56,Doctor,p328,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,2,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_80,Nurse,p328,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,3,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_80,Nurse,p328,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,8,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_67,Nurse,p813,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,4,0,Patient Management,0
+1/1/2019 06:07,1/1/2019 06:11,emp_67,Nurse,p813,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,1,0,Patient Management,0
+1/1/2019 06:07,1/1/2019 06:11,emp_67,Nurse,p813,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,3,0,Patient Management,0
+1/1/2019 06:18,1/1/2019 06:22,emp_53,Doctor,p813,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,6,0,Patient Management,0
+1/1/2019 06:45,1/1/2019 06:48,emp_53,Doctor,p813,1,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,7,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_53,Doctor,p813,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,2,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_53,Doctor,p813,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,4,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_74,Nurse,p813,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,7,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_74,Nurse,p813,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:01,emp_75,Nurse,p813,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,5,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:01,emp_75,Nurse,p813,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_74,Nurse,p813,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_74,Nurse,p813,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,7,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_76,Nurse,p813,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,8,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_76,Nurse,p813,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_73,Nurse,p813,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,1,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_73,Nurse,p813,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:01,emp_55,Doctor,p813,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,7,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:01,emp_55,Doctor,p813,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,4,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_84,Nurse,p813,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_84,Nurse,p813,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,6,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_80,Nurse,p813,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,3,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_80,Nurse,p813,1,Emergency,org_1,Windows,dev_56,Chrome,192.168.2.66,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,5,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_82,Nurse,p813,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,8,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_82,Nurse,p813,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_57,Doctor,p813,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,2,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_58,Doctor,p813,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,2,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_58,Doctor,p813,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,2,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:03,emp_58,Doctor,p813,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,2,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_71,Nurse,p8,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,1,0,Patient Management,0
+1/1/2019 06:13,1/1/2019 06:18,emp_71,Nurse,p8,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,9,0,Patient Management,0
+1/1/2019 06:13,1/1/2019 06:18,emp_71,Nurse,p8,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,5,0,Patient Management,0
+1/1/2019 06:23,1/1/2019 06:27,emp_53,Doctor,p8,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,8,0,Patient Management,0
+1/1/2019 06:56,1/1/2019 07:00,emp_53,Doctor,p8,1,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,6,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:01,emp_68,Nurse,p8,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,8,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:01,emp_68,Nurse,p8,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,2,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_67,Nurse,p8,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,2,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:03,emp_67,Nurse,p8,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,5,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_67,Nurse,p8,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,3,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_67,Nurse,p8,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,10,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_71,Nurse,p8,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,4,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_71,Nurse,p8,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,10,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:01,emp_70,Nurse,p8,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,2,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:01,emp_70,Nurse,p8,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_0,1/1/2019 06:00,1/1/2019 14:00,C,0,1,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:02,emp_54,Doctor,p8,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,4,0,Patient Management,0
+1/1/2019 06:00,1/1/2019 06:04,emp_53,Doctor,p8,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_0,1/1/2019 06:00,1/1/2019 14:00,R,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_77,Nurse,p8,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_77,Nurse,p8,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_74,Nurse,p8,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_74,Nurse,p8,1,Emergency,org_1,Windows,dev_57,Chrome,192.168.2.67,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_75,Nurse,p8,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,7,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_75,Nurse,p8,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,4,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_78,Nurse,p8,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_78,Nurse,p8,1,Emergency,org_1,Windows,dev_61,Chrome,192.168.2.71,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,5,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:01,emp_77,Nurse,p763,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,10,0,Patient Management,0
+1/1/2019 14:08,1/1/2019 14:10,emp_77,Nurse,p763,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,7,0,Patient Management,0
+1/1/2019 14:08,1/1/2019 14:10,emp_77,Nurse,p763,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,10,0,Patient Management,0
+1/1/2019 14:16,1/1/2019 14:21,emp_56,Doctor,p763,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,3,0,Patient Management,0
+1/1/2019 14:44,1/1/2019 14:47,emp_56,Doctor,p763,1,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_77,Nurse,p763,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_77,Nurse,p763,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,4,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_72,Nurse,p763,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,1,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_72,Nurse,p763,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,10,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:01,emp_76,Nurse,p763,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,1,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:01,emp_76,Nurse,p763,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,6,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_72,Nurse,p763,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_72,Nurse,p763,1,Emergency,org_1,Windows,dev_55,Chrome,192.168.2.65,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_75,Nurse,p763,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,9,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_75,Nurse,p763,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,3,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_84,Nurse,p763,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,2,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:01,emp_84,Nurse,p763,1,Emergency,org_1,Windows,dev_60,Chrome,192.168.2.70,0,2_2,1/1/2019 22:00,2/1/2019 06:00,C,0,5,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_57,Doctor,p763,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,2,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_57,Doctor,p763,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,6,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:04,emp_57,Doctor,p763,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,7,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_57,Doctor,p763,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,7,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_76,Nurse,p504,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,7,0,Patient Management,0
+1/1/2019 14:14,1/1/2019 14:17,emp_76,Nurse,p504,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,1,0,Patient Management,0
+1/1/2019 14:14,1/1/2019 14:17,emp_76,Nurse,p504,1,Emergency,org_1,Windows,dev_59,Chrome,192.168.2.69,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,7,0,Patient Management,0
+1/1/2019 14:26,1/1/2019 14:28,emp_55,Doctor,p504,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,2,0,Patient Management,0
+1/1/2019 14:44,1/1/2019 14:47,emp_55,Doctor,p504,1,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,5,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:01,emp_75,Nurse,p504,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,8,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:01,emp_75,Nurse,p504,1,Emergency,org_1,Windows,dev_58,Chrome,192.168.2.68,0,2_1,1/1/2019 14:00,1/1/2019 22:00,C,0,1,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_56,Doctor,p504,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,5,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:03,emp_55,Doctor,p504,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,2,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:04,emp_56,Doctor,p504,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,8,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:02,emp_56,Doctor,p504,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,3,0,Patient Management,0
+1/1/2019 14:00,1/1/2019 14:01,emp_56,Doctor,p504,2,Emergency,org_1,Windows,dev_54,Chrome,192.168.2.64,0,2_1,1/1/2019 14:00,1/1/2019 22:00,R,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_57,Doctor,p504,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,10,0,Patient Management,0
+1/1/2019 22:00,1/1/2019 22:02,emp_57,Doctor,p504,2,Emergency,org_1,Windows,dev_53,Chrome,192.168.2.63,0,2_2,1/1/2019 22:00,2/1/2019 06:00,R,0,4,0,Patient Management,0
+1/1/2019 09:01,1/1/2019 09:06,emp_50,Doctor,p258,3,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,3,0,Patient Management,0
+1/1/2019 09:01,1/1/2019 09:06,emp_50,Doctor,p258,2,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,R,0,8,0,Patient Management,0
+1/1/2019 09:18,1/1/2019 09:22,emp_50,Doctor,p273,3,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,7,0,Patient Management,0
+1/1/2019 09:18,1/1/2019 09:22,emp_50,Doctor,p273,2,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,R,0,4,0,Patient Management,0
+1/1/2019 09:37,1/1/2019 09:40,emp_50,Doctor,p856,3,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,7,0,Patient Management,0
+1/1/2019 09:37,1/1/2019 09:40,emp_50,Doctor,p856,2,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,R,0,7,0,Patient Management,0
+1/1/2019 09:52,1/1/2019 09:56,emp_50,Doctor,p877,3,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,10,0,Patient Management,0
+1/1/2019 09:52,1/1/2019 09:56,emp_50,Doctor,p877,2,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,R,0,8,0,Patient Management,0
+1/1/2019 10:08,1/1/2019 10:11,emp_50,Doctor,p827,3,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,1,0,Patient Management,0
+1/1/2019 10:08,1/1/2019 10:11,emp_50,Doctor,p827,2,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,R,0,3,0,Patient Management,0
+1/1/2019 10:24,1/1/2019 10:28,emp_50,Doctor,p645,3,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,10,0,Patient Management,0
+1/1/2019 10:24,1/1/2019 10:28,emp_50,Doctor,p645,2,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,R,0,2,0,Patient Management,0
+1/1/2019 10:38,1/1/2019 10:40,emp_50,Doctor,p64,3,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,3,0,Patient Management,0
+1/1/2019 10:38,1/1/2019 10:40,emp_50,Doctor,p64,2,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,R,0,9,0,Patient Management,0
+1/1/2019 10:50,1/1/2019 10:54,emp_50,Doctor,p833,3,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,2,0,Patient Management,0
+1/1/2019 10:50,1/1/2019 10:54,emp_50,Doctor,p833,2,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,R,0,2,0,Patient Management,0
+1/1/2019 11:08,1/1/2019 11:10,emp_50,Doctor,p991,3,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,4,0,Patient Management,0
+1/1/2019 11:08,1/1/2019 11:10,emp_50,Doctor,p991,2,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,R,0,5,0,Patient Management,0
+1/1/2019 08:57,1/1/2019 09:00,emp_51,Doctor,p790,3,In Patients_Ward2,org_1,Windows,dev_51,Chrome,192.168.2.61,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,6,0,Patient Management,0
+1/1/2019 08:57,1/1/2019 09:00,emp_50,Doctor,p790,2,In Patients_Ward1,org_1,Windows,dev_50,Chrome,192.168.2.60,0,2,1/1/2019 08:00,1/1/2019 16:00,R,0,2,0,Patient Management,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p0,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p1,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p2,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p3,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p4,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p5,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p6,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p7,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p8,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p9,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p10,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p11,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p12,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p13,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p14,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p15,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p16,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p17,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p18,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p19,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p20,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p21,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p22,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p23,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p24,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p25,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p26,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p27,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p28,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p29,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p30,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p31,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p32,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p33,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p34,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p35,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p36,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p37,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p38,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p39,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p40,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p41,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p42,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p43,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p44,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p45,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p46,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p47,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p48,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p49,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p50,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p51,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p52,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p53,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p54,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p55,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p56,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p57,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p58,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p59,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p60,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p61,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p62,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p63,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p64,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p65,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p66,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p67,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p68,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p69,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p70,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p71,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p72,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p73,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p74,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p75,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p76,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p77,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p78,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p79,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p80,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p81,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p82,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p83,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p84,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p85,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p86,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p87,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p88,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p89,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p90,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p91,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p92,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p93,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p94,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p95,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p96,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p97,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p98,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p99,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p100,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p101,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p102,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p103,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p104,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p105,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p106,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p107,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p108,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p109,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p110,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p111,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p112,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p113,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p114,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p115,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p116,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p117,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p118,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p119,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p120,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p121,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p122,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p123,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p124,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p125,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p126,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p127,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p128,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p129,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p130,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p131,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p132,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p133,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p134,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p135,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p136,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p137,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p138,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p139,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p140,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p141,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p142,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p143,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p144,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p145,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p146,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p147,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p148,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p149,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p150,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p151,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p152,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p153,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p154,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p155,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p156,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p157,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p158,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p159,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p160,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p161,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p162,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p163,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p164,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p165,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p166,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p167,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p168,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p169,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p170,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p171,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p172,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p173,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p174,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p175,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p176,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p177,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p178,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p179,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p180,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p181,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p182,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p183,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p184,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p185,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p186,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p187,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p188,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p189,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p190,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p191,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p192,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p193,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p194,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p195,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p196,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p197,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p198,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p199,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p200,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p201,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p202,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p203,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p204,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p205,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p206,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p207,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p208,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p209,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p210,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p211,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p212,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p213,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p214,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p215,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p216,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p217,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p218,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p219,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p220,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p221,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p222,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p223,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p224,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p225,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p226,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p227,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p228,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p229,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p230,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p231,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p232,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p233,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p234,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p235,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p236,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p237,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
+1/1/2019 10:54,1/1/2019 11:30,emp_0,Head of IT,p238,1,IT,org_1,Mac OS,dev_0,Safari,192.168.2.10,0,2,1/1/2019 08:00,1/1/2019 16:00,C,0,5,0,Report,0
